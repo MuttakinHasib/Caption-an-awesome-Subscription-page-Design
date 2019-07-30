@@ -93,12 +93,13 @@ a {
                 display: inline-block;
 
                 input {
-                    padding: 15px 20px;
+                    padding: 25px 20px;
                     border: none;
                     border-left: 2px solid #fa48c8;
                     background: #fff;
                     width: 520px;
                     box-shadow: 0 8px 20px rgba(0, 0, 0, .1);
+                    font-size: 16px;
 
                 }
 
@@ -150,7 +151,7 @@ a {
         }
 
         .scroll-down {
-            margin-top: 20%;
+            margin-top: 15%;
 
             a {
                 color: #fa48c8;

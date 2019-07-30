@@ -115,13 +115,14 @@ a {
 }
 
 .hero-section .hero-left-content .form-input form input {
-  padding: 15px 20px;
+  padding: 25px 20px;
   border: none;
   border-left: 2px solid #fa48c8;
   background: #fff;
   width: 520px;
   -webkit-box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
           box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  font-size: 16px;
 }
 
 .hero-section .hero-left-content .form-input form span {
@@ -160,7 +161,7 @@ a {
 }
 
 .hero-section .hero-left-content .scroll-down {
-  margin-top: 20%;
+  margin-top: 15%;
 }
 
 .hero-section .hero-left-content .scroll-down a {
